@@ -15,7 +15,7 @@ export default function Contact() {
           </section>
           <section className="text-center">
             <h2 className="text-2xl font-semibold text-gray-800">Email</h2>
-            <p className="text-lg text-gray-600">afolayansali@gmail.com</p>
+            <p className="text-lg text-gray-600">afolayansalim@gmail.com</p>
           </section>
           
         </div>
