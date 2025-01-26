@@ -11,11 +11,11 @@ export default function Contact() {
         <div className="space-y-6">
           <section className="text-center">
             <h2 className="text-2xl font-semibold text-gray-800">Phone</h2>
-            <p className="text-lg text-gray-600">+234 801 234 5678</p>
+            <p className="text-lg text-gray-600">+234 902 183 1763</p>
           </section>
           <section className="text-center">
             <h2 className="text-2xl font-semibold text-gray-800">Email</h2>
-            <p className="text-lg text-gray-600">salim.afolayan@example.com</p>
+            <p className="text-lg text-gray-600">afolayansali@gmail.com</p>
           </section>
           
         </div>
